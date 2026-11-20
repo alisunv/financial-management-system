@@ -8,6 +8,50 @@ This project is a comprehensive web-based ERP application designed to manage int
 
 The platform brings together financial operations, organizational workflows, resource management, and reporting capabilities through a centralized interface.
 
+## Application Screenshots
+
+Explore the user interface and key areas of the enterprise ERP application.
+
+### Login & Dashboard
+
+**Login Page**
+
+![Login Page](screenshots/login.png)
+
+**Main Dashboard**
+
+![Main Dashboard](screenshots/dashboard.png)
+
+### Workspace & Multi-Tab Navigation
+
+The application features an internal multi-tab workspace that allows users to work with multiple modules simultaneously.
+
+**Workspace Overview**
+
+![Workspace](screenshots/workspace.png)
+
+**Workspace – Multiple Tabs**
+
+![Workspace Multiple Tabs](screenshots/workspace1.png)
+
+**Workspace – Module Navigation**
+
+![Workspace Module Navigation](screenshots/workspace2.png)
+
+### Core Business Modules
+
+**Approval Inbox**
+
+![Approval Inbox](screenshots/approval-inbox.png)
+
+**Financial Accounting**
+
+![Financial Accounting](screenshots/accounting.png)
+
+**Financial Reports**
+
+![Financial Reports](screenshots/reports.png)
+
 ## Core Modules
 
 ### 1. General System & Workspace
