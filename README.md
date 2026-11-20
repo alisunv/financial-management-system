@@ -1,21 +1,78 @@
-# Financial Management System
+# Enterprise Resource Planning (ERP) System
 
-An integrated enterprise financial management application designed to handle accounting, treasury, sales, purchasing, inventory, and business workflows.
+An integrated enterprise management platform covering financial operations, accounting, treasury, human resources, budgeting, procurement, and inventory management.
 
 ## Overview
 
-This project is a web-based financial management system developed to bring essential business and financial operations together in a unified platform.
+This project is a comprehensive web-based ERP application designed to manage interconnected business processes within a unified system.
 
-The application focuses on structured financial processes, interconnected business modules, and a consistent user experience.
+The platform brings together financial operations, organizational workflows, resource management, and reporting capabilities through a centralized interface.
 
-## Main Modules
+## Core Modules
 
-- **Accounting:** Financial records and accounting operations.
-- **Treasury:** Cash, bank, and financial transaction management.
-- **Sales & Purchases:** Sales and purchasing operations.
-- **Inventory:** Inventory and stock management.
-- **Workflow:** Document routing, approvals, and business process management.
-- **Reports:** Financial and operational reporting.
+### 1. General System & Workspace
+- User Workspace and Task Inbox
+- Management Dashboard
+- Approval Inbox
+- System Administration
+
+### 2. Financial Accounting
+- Financial Accounting
+- Chart of Accounts
+- Floating Analytical Accounts
+- Business Partners and Counterparties
+- Cost Centers
+- Projects
+- Currencies and Exchange Rates
+
+### 3. Treasury Management
+- Receipts and Payments
+- Treasury Operations
+- Cash Flow Management
+
+### 4. Fixed Assets Management
+- Fixed Assets
+- Asset Categories
+- Asset Depreciation
+
+### 5. Human Resources & Payroll
+- Employee Records
+- Payroll Management
+- Payroll Generation
+
+### 6. Financial Reporting & Budgeting
+
+**Financial Reports**
+- Journal Ledger
+- General Ledger and Subsidiary Ledger
+- Trial Balance
+- Balance Sheet
+- Income Statement
+- Cash Flow Statement
+- VAT Reports
+- Customer and Supplier Statements
+- Accounts Receivable Aging
+- Cost Center Reports
+- Project Reports
+
+**Budget Management**
+- Approved Budgets
+- Budget Commitments
+- Payment Authorizations
+- Annual Budget Proposals
+- Budget Variance Reports
+
+### 7. Procurement & Sales
+- Purchase Invoices
+- Sales Invoices
+- Purchasing and Sales Operations
+
+### 8. Inventory & Warehouse Management
+- Products and Services
+- Inventory and Stock Movements
+- Warehouse Management
+- Product Categories
+- Units of Measurement
 
 ## Technology Stack
 
@@ -26,14 +83,15 @@ The application focuses on structured financial processes, interconnected busine
 - JavaScript
 - HTML / CSS
 
-## Key Development Areas
+## Development Focus
 
-- Enterprise application development
-- Database design
-- Financial business logic
-- Configurable workflows
-- Modular application architecture
-- User interface design
+- Enterprise Application Architecture
+- Financial Business Logic
+- Database Design
+- Integrated Business Modules
+- Workflow and Approval Management
+- Reporting and Data Management
+- User Interface and Experience Design
 
 ## Project Status
 
@@ -41,6 +99,6 @@ Demo version.
 
 ## Repository Purpose
 
-This repository showcases the application's functionality, interface design, and development capabilities.
+This repository showcases the system's capabilities, module structure, and user interface.
 
 Proprietary source code and real business data are not included.
